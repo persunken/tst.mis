@@ -20,7 +20,7 @@ public class Canvas {
             shapes.add(shapes.remove(0));
 
         for (Shape s : shapes) {
-            s.draw(this);
+            //s.draw(this);
         }
     }
 
